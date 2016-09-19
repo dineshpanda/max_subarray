@@ -1,5 +1,5 @@
 
-This program is Ruby solution to find largest sum of contigous sub-array and it is based on Kadane's algorithm.
+This program is Ruby solution to find largest sum of contiguous sub-array and it is based on Kadane's algorithm.
 
 Problem reference: https://en.wikipedia.org/wiki/Maximum_subarray_problem
 
